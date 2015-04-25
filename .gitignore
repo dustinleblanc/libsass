@@ -72,3 +72,5 @@ support/libsass.pc
 # Cloned testing dirs
 sassc/
 sass-spec/
+
+/vendor/

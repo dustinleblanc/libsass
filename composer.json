@@ -1,0 +1,11 @@
+{
+    "name": "dustin/libsass",
+    "description": "Fork of libsass for use with composer",
+    "authors": [
+        {
+            "name": "Dustin LeBlanc",
+            "email": "dustin@singlebrook.com"
+        }
+    ],
+    "require": {}
+}
